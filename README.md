@@ -28,11 +28,11 @@ https://github.com/L-Carr/Platoon-Console.git
 
 Salary Cap Builder
 
-Description: A web app that allows for users to create NFL rosters.
+Description: A web app that allows for users to create an NFL roster.
 
 Technologies: React, Django, PostgreSQL
 
-Repository Link
+https://github.com/kingdonniemoe/SalaryCapBuilder.git
 
 <h3>🎓 Education</h3>
 Bachelor’s Degree in Computer Science - University of South Florida (Ongoing)
