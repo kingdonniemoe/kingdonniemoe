@@ -38,11 +38,15 @@ https://github.com/kingdonniemoe/SalaryCapBuilder.git
 Bachelor’s Degree in Computer Science - University of South Florida (Ongoing)
 
 Certifications:
+
 CompTIA A+ (Ongoing)
+
 SAFe 6 Practitioner
+
 Full Stack Software Engineering
 
-🛠️ Experience
+<h3>🛠️ Experience</h3>
+
 Aerospace Propulsion Instructor & Cyber Liaison - United States Air Force
 
 
