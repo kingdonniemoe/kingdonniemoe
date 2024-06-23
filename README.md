@@ -24,7 +24,7 @@ Description: Enhances educational processes through innovative use of technology
 
 Technologies: React, Django, PostgreSQL
 
-Repository Link
+https://github.com/L-Carr/Platoon-Console.git
 
 Salary Cap Builder
 
