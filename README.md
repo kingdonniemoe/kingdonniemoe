@@ -39,8 +39,6 @@ Bachelor’s Degree in Computer Science - University of South Florida (Ongoing)
 
 Certifications:
 
-CompTIA A+ (Ongoing)
-
 SAFe 6 Practitioner
 
 Full Stack Software Engineering
