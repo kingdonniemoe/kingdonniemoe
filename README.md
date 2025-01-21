@@ -2,7 +2,7 @@
 
 👋 About Me
 
-I am an Adaptive Full Stack Software Engineer and transitioning Military Veteran based in Saint Petersburg, Florida. With over 7 years of experience in technology roles, I've transitioned from aviation maintenance management to software engineering and technical support. Currently, I am pursuing a bachelor’s degree in computer science at the University of South Florida and working towards my CompTIA A+ certification.
+I am an Adaptive Full Stack Software Engineer and transitioning Military Veteran based in Saint Petersburg, Florida. With over 7 years of experience in technology roles, I've transitioned from aviation maintenance management to software engineering and technical support. Currently, I am pursuing a bachelor’s degree in computer science at the University of Missouri - Kansas City.
 
 <h3>🔧 Technologies & Tools</h3>
 
