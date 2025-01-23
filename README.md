@@ -35,7 +35,7 @@ Technologies: React, Django, PostgreSQL
 https://github.com/kingdonniemoe/SalaryCapBuilder.git
 
 <h3>🎓 Education</h3>
-Bachelor’s Degree in Computer Science - University of South Florida (Ongoing)
+B.S. Computer Science - University of Missouri-Kansas City (Ongoing)
 
 Certifications:
 
