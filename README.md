@@ -1,4 +1,4 @@
-<h1 align="center">Dominic Colbert - Full Stack Software Engineer</h1>
+<h1 align="center">Dominic Colbert - Software Engineer</h1>
 
 👋 About Me
 
